@@ -1,0 +1,3 @@
+﻿NAverage extends the built-in Enumerable.Average LINQ extension method that ships with .NET 3.5 by lots of other average calculation algorithms.
+
+It's written in C# and requires .NET ≥ 3.5.
